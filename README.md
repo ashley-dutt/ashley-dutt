@@ -1,12 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Ashley&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
-
+![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Ashley&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+]
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+recommendation+systems;Flask+%2B+MySQL+%2B+scikit-learn+%2B+Gemini+API;3rd-Year+B.Tech+CSE+(AI+%26+ML)+%40+LPU)](https://git.io/typing-svg)
 
 ![University](https://img.shields.io/badge/University-Lovely%20Professional%20University-6A0DAD?style=for-the-badge)
 ![Degree](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-4B0082?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.45%2F10.0-8A2BE2?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_Location-Punjab,_India-6A0DAD?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-add-your-portfolio-url-here)
@@ -29,7 +28,7 @@ I'm a third-year **B.Tech Computer Science & Engineering (AI & Machine Learning)
 - 🔭 Currently building **CurriculumX** — an AI-powered syllabus analysis and CDR recommendation system (RAG + LLM, gradient boosting/random forest ranking) for university submission
 - 🧠 Comfortable across the ML lifecycle: feature engineering (geospatial, temporal), classical ML with scikit-learn, and LLM-assisted pipelines with the Gemini API
 - 🛠️ Product-engineering mindset — every model I build ships behind a Flask/Streamlit interface, not just a notebook
-- 🎓 Selected among the **top 11 students** at LPU for a real-world project initiative
+- 🎓 
 - 📄 [Add 1–2 more lines about your longer-term interests/goals]
 
 **Open to:** Software Engineering & AI/ML Engineer internships and full-time roles
@@ -291,7 +290,6 @@ Built a recommendation system for factory reallocation and shipping/logistics op
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#-add-your-leetcode-url)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#-add-your-gfg-url)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#-add-your-hackerrank-url)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#-add-your-codechef-url)
