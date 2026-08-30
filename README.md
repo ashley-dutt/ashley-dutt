@@ -1,15 +1,16 @@
 <div align="center">
 
-![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Ashley&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
-]
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+recommendation+systems;Flask+%2B+MySQL+%2B+scikit-learn+%2B+Gemini+API;3rd-Year+B.Tech+CSE+(AI+%26+ML)+%40+LPU)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Ashley&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+recommendation+systems;GSSoC+26+Open+Source+Contributor;Flask+%2B+MySQL+%2B+scikit-learn+%2B+Gemini+API)](https://git.io/typing-svg)
 
 ![University](https://img.shields.io/badge/University-Lovely%20Professional%20University-6A0DAD?style=for-the-badge)
 ![Degree](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-4B0082?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍_Location-Punjab,_India-6A0DAD?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.45%2F10.0-8A2BE2?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Location-Hoshiarpur,_Punjab,_India-6A0DAD?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-add-your-portfolio-url-here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashley-8b9222319)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-dutt)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashley60113@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashley-dutt)
 
@@ -23,13 +24,15 @@
 
 ## 📌 About Me
 
-I'm a third-year **B.Tech Computer Science & Engineering (AI & Machine Learning)** student at Lovely Professional University, focused on shipping full-stack applications with an ML core rather than just notebooks. My work centers on **Flask/MySQL backends wired to scikit-learn models and the Gemini API** — mock-interview scoring, resume-to-job matching, real-time sign-language recognition, and recommendation systems for logistics and curriculum review.
+AI & ML enthusiast exploring what happens when Machine Learning, Generative AI, and Data Analytics move beyond the classroom and into real-world problems. I'm a third-year **B.Tech Computer Science & Engineering (AI & Machine Learning)** student at Lovely Professional University, and I build full-stack applications with an ML core — not just notebooks.
 
 - 🔭 Currently building **CurriculumX** — an AI-powered syllabus analysis and CDR recommendation system (RAG + LLM, gradient boosting/random forest ranking) for university submission
-- 🧠 Comfortable across the ML lifecycle: feature engineering (geospatial, temporal), classical ML with scikit-learn, and LLM-assisted pipelines with the Gemini API
-- 🛠️ Product-engineering mindset — every model I build ships behind a Flask/Streamlit interface, not just a notebook
-- 🎓 
-- 📄 [Add 1–2 more lines about your longer-term interests/goals]
+- 🌱 Open Source Contributor at **GirlScript Summer of Code (GSSoC'26)**, working across GitHub-based workflows, issues, and pull requests
+- 🧠 Hands-on with the full ML lifecycle: feature engineering (geospatial, temporal), classical ML with scikit-learn, and LLM-assisted pipelines with the Gemini API
+- 🎓 Selected among the **top 11 students** at LPU for a real-world project initiative
+- 🗣️ Hindi & Punjabi (native/bilingual) · English (professional working)
+
+**Top Skills:** EDA · Data Visualization · Supply Chain Optimization
 
 **Open to:** Software Engineering & AI/ML Engineer internships and full-time roles
 
@@ -72,6 +75,7 @@ I'm a third-year **B.Tech Computer Science & Engineering (AI & Machine Learning)
 | Classical ML / Classification | Applied | scikit-learn classifiers; gradient boosting & random forest ranking models |
 | NLP & Text Similarity | Applied | TF-IDF cosine similarity engine for resume–job matching |
 | Recommendation Systems | Applied | Ranking/recommendation pipelines for logistics optimization and curriculum-review recommendations |
+| Supply Chain / Operations Optimization | Applied | Applied ML & data analysis to a real-world factory reallocation & shipping optimization problem for Nassau Candy Distributor |
 | Data Analytics & Visualization | Applied | Streamlit/Plotly dashboards for learner-analytics and logistics projects |
 
 </div>
@@ -137,7 +141,7 @@ Real-time sign-language recognition using MediaPipe hand-landmark extraction and
 <summary><b>📦 Nassau Candy — Factory Reallocation & Shipping Optimization</b></summary>
 <br>
 
-Recommendation system for factory reallocation and shipping optimization, built during a Data Science & ML internship at Nassau Candy Distributor. Uses scikit-learn pipelines with geospatial feature engineering, delivered via a Streamlit dashboard.
+Recommendation system for factory reallocation and shipping optimization, applying ML and data analysis to a real-world supply-chain problem for Nassau Candy Distributor. Uses scikit-learn pipelines with geospatial feature engineering, delivered via a Streamlit dashboard. Completed as one of two projects during a Machine Learning Intern role at **Unified Mentor Private Limited** (May 2026 – August 2026).
 
 | | |
 |---|---|
@@ -171,7 +175,7 @@ AI-powered syllabus analysis and Course Delivery Report (CDR) recommendation sys
 <summary><b>📊 EduPro Learner Analytics</b></summary>
 <br>
 
-Learner-demographics analytics project (Unified Mentor) featuring a Streamlit/Plotly dashboard and an accompanying research paper.
+Analyzed learner demographics and course-enrollment behavior on EduPro to identify trends and derive actionable insights, featuring a Streamlit/Plotly dashboard and an accompanying research paper. The second project completed during the same Unified Mentor Private Limited ML internship as the Nassau Candy project.
 
 | | |
 |---|---|
@@ -239,16 +243,25 @@ Learner-demographics analytics project (Unified Mentor) featuring a Streamlit/Pl
 
 ## 💼 Experience
 
-**Data Science & Machine Learning Intern** · Nassau Candy Distributor
-`[Add Month Year] – [Add Month Year]`
+**Machine Learning Intern** · Unified Mentor Private Limited
+May 2026 – August 2026 · 4 months
 
-Built a recommendation system for factory reallocation and shipping/logistics optimization.
+Worked on two data-driven projects applying Machine Learning and Data Analytics to real-world problems.
 
-- Engineered geospatial features to inform shipping-route and reallocation decisions
-- Built scikit-learn pipelines to generate reallocation recommendations
-- Delivered results through an interactive Streamlit dashboard
+- Applied ML and data analysis to a real-world supply-chain optimization problem — Factory Reallocation & Shipping Optimization for Nassau Candy Distributor
+- Analyzed learner demographics and course-enrollment patterns on EduPro to identify trends and derive actionable insights
+- Strengthened practical skills in data analysis, problem-solving, and applying AI/ML concepts to real-world datasets
 
-`Python` `scikit-learn` `Streamlit` `Geospatial Feature Engineering`
+`Python` `scikit-learn` `Streamlit` `Geospatial Feature Engineering` `Data Analytics`
+
+**Open Source Contributor** · GirlScript Summer of Code (GSSoC'26)
+March 2026 – Present · 6 months
+
+- Contributing to open-source projects through GSSoC'26, collaborating with developers and working with GitHub-based workflows
+- Exploring real-world codebases, understanding existing implementations, and contributing improvements through issues and pull requests
+- Strengthening practical skills in problem-solving, collaboration, version control, and open-source development
+
+`Git` `GitHub` `Open Source` `Collaboration`
 
 ---
 
@@ -260,7 +273,6 @@ Built a recommendation system for factory reallocation and shipping/logistics op
 |---|---|
 | Top 11 Selection — LPU Real-World Project Initiative | Selected among the top 11 students university-wide for a real-world project initiative |
 | `[Add achievement]` | `[Add details]` |
-| `[Add achievement]` | `[Add details]` |
 
 </div>
 
@@ -268,21 +280,17 @@ Built a recommendation system for factory reallocation and shipping/logistics op
 
 ## 📜 Certifications
 
-**AWS**
+**SAP**
 
-`[Add AWS certification name & badge, or remove this section if not applicable]`
+`Supply Chain Optimization with SAP`
 
-**Oracle**
+**Google / AI**
 
-`[Add Oracle certification name & badge, or remove this section if not applicable]`
+`Google Skill Badge` · `Business AI` · `Gemini for Data Scientists and Analysts`
 
-**NPTEL**
+**Hackathons & Events**
 
-`[Add NPTEL certification name & badge, or remove this section if not applicable]`
-
-**Cisco**
-
-`[Add Cisco certification name & badge, or remove this section if not applicable]`
+`Certificate of Participation — AI Agent Hackathon` · `Certificate of Participation — ENLIVEN 2`
 
 ---
 
@@ -290,6 +298,7 @@ Built a recommendation system for factory reallocation and shipping/logistics op
 
 <div align="center">
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#-add-your-leetcode-url)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#-add-your-gfg-url)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#-add-your-hackerrank-url)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#-add-your-codechef-url)
@@ -342,23 +351,21 @@ Built a recommendation system for factory reallocation and shipping/logistics op
 
 </div>
 
-> `[Verify this path matches the output of your existing GitHub Actions snake workflow]`
-
 ---
 
 ## 🎯 Current Focus
 
-```yaml
+\`\`\`yaml
 current_focus:
   learning:
     - "RAG pipelines & LLM-based recommendation systems"
   building:
     - "CurriculumX — AI-powered syllabus analysis & CDR recommendation system"
   exploring:
-    - "[Add what you're currently exploring]"
+    - "Generative AI & Data Analytics applications"
   open_to:
     - "AI/ML Engineer & Software Engineering internships/roles"
-```
+\`\`\`
 
 ---
 
@@ -367,7 +374,7 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashley60113@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashley-8b9222319)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-dutt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashley-dutt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-add-your-portfolio-url-here)
 
@@ -377,7 +384,7 @@ current_focus:
 
 <div align="center">
 
-*Turning data into decisions, and decisions into deployed systems.*
+*Learn deeply. Build practically. Keep improving.*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=120&section=footer)
 
