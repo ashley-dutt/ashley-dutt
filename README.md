@@ -9,7 +9,6 @@
 ![CGPA](https://img.shields.io/badge/CGPA-8.45%2F10.0-8A2BE2?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_Location-Hoshiarpur,_Punjab,_India-6A0DAD?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-add-your-portfolio-url-here)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-dutt)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashley60113@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashley-dutt)
@@ -24,15 +23,12 @@
 
 ## 📌 About Me
 
-AI & ML enthusiast exploring what happens when Machine Learning, Generative AI, and Data Analytics move beyond the classroom and into real-world problems. I'm a third-year **B.Tech Computer Science & Engineering (AI & Machine Learning)** student at Lovely Professional University, and I build full-stack applications with an ML core — not just notebooks.
+AI/ML enthusiast exploring Machine Learning, Generative AI, and Data Analytics through practical projects. I’m a **B.Tech Computer Science & Engineering (AI & Machine Learning)** student building data-driven and ML-integrated applications.
 
-- 🔭 Currently building **CurriculumX** — an AI-powered syllabus analysis and CDR recommendation system (RAG + LLM, gradient boosting/random forest ranking) for university submission
 - 🌱 Open Source Contributor at **GirlScript Summer of Code (GSSoC'26)**, working across GitHub-based workflows, issues, and pull requests
-- 🧠 Hands-on with the full ML lifecycle: feature engineering (geospatial, temporal), classical ML with scikit-learn, and LLM-assisted pipelines with the Gemini API
-- 🎓 Selected among the **top 11 students** at LPU for a real-world project initiative
 - 🗣️ Hindi & Punjabi (native/bilingual) · English (professional working)
 
-**Top Skills:** EDA · Data Visualization · Supply Chain Optimization
+**Core Skills:** Machine Learning · Data Analysis · EDA · Data Visualization · Supply Chain Optimization
 
 **Open to:** Software Engineering & AI/ML Engineer internships and full-time roles
 
@@ -42,12 +38,11 @@ AI & ML enthusiast exploring what happens when Machine Learning, Generative AI, 
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=py&theme=dark)
-`[Add other languages you use — e.g. C++, Java, JavaScript]`
+![Skills](https://skillicons.dev/icons?i=py,cpp,java,js&theme=dark)
 
 **Frontend**
 
-`[Add your frontend stack, if any — e.g. HTML/CSS, React]`
+No dedicated frontend framework listed.
 
 **Backend & Databases**
 
@@ -56,7 +51,7 @@ AI & ML enthusiast exploring what happens when Machine Learning, Generative AI, 
 **Cloud, DevOps & Tooling**
 
 ![Skills](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark)
-`[Add cloud platforms if applicable — e.g. AWS, GCP, Azure]`
+Google Cloud
 
 **ML / AI**
 
@@ -93,47 +88,8 @@ Mock interview platform combining a Flask/MySQL backend with the Gemini API and 
 | | |
 |---|---|
 | **Stack** | Python, Flask, MySQL, scikit-learn, Gemini API |
-| **Scale** | `[Add scale/usage metrics]` |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | `[Add security measures]` |
-| **Impact** | `[Add measurable impact]` |
-| **Repository** | `[Add repo link]` |
 
 Built as part of LPU's Summer Training program; report iterated through multiple rounds to match the faculty-provided template.
-
-</details>
-
-<details>
-<summary><b>📄 ResumeRadar</b></summary>
-<br>
-
-Resume analyzer that scores resume-to-job fit using TF-IDF cosine similarity, with session-based authentication and PDF export.
-
-| | |
-|---|---|
-| **Stack** | Python, Flask, MySQL, scikit-learn (TF-IDF), Gemini API |
-| **Scale** | `[Add scale/usage metrics]` |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | Session-based authentication |
-| **Impact** | `[Add measurable impact]` |
-| **Repository** | `[Add repo link]` |
-
-</details>
-
-<details>
-<summary><b>🤟 SignSpeak AI</b></summary>
-<br>
-
-Real-time sign-language recognition using MediaPipe hand-landmark extraction and engineered temporal features feeding a scikit-learn classifier, paired with the Gemini API for contextual assistance.
-
-| | |
-|---|---|
-| **Stack** | Python, Flask, MySQL, MediaPipe, scikit-learn, Gemini API |
-| **Scale** | `[Add scale/usage metrics]` |
-| **Performance** | `[Add accuracy/latency metrics]` |
-| **Security** | `[Add security measures]` |
-| **Impact** | `[Add measurable impact]` |
-| **Repository** | `[Add repo link]` |
 
 </details>
 
@@ -146,28 +102,11 @@ Recommendation system for factory reallocation and shipping optimization, applyi
 | | |
 |---|---|
 | **Stack** | Python, scikit-learn, Streamlit, geospatial feature engineering |
-| **Scale** | `[Add scale metrics]` |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | `[Add security notes]` |
-| **Impact** | `[Add measurable impact — e.g. cost/logistics savings]` |
-| **Repository** | `[Add repo link]` |
-
-</details>
-
-<details>
-<summary><b>🎓 CurriculumX (AI-Powered CDR Recommendation System)</b></summary>
-<br>
-
-AI-powered syllabus analysis and Course Delivery Report (CDR) recommendation system built for HOD submission. Combines a gradient boosting/random forest ranking model with a RAG + LLM pipeline (Gemini API), a Flask/MySQL backend, and a Streamlit dashboard. Faculty retain final approval via accept/edit/reject on every AI recommendation.
-
-| | |
-|---|---|
-| **Stack** | Python, Flask, MySQL, scikit-learn, Gemini API (RAG), Streamlit |
-| **Scale** | Pitching prototype stage — no production university-system integration yet |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | `[Add security notes]` |
-| **Impact** | Reframed at HOD's direction from an autonomous system to a faculty-approved recommendation workflow |
-| **Repository** | `[Add repo link]` |
+| **Scale** | 10,194 sales/order records · 18 features |
+| **Performance** | ML-based shipping lead-time prediction and scenario comparison |
+| **Security** | Not applicable to project scope |
+| **Impact** | Supports factory-product reassignment decisions using shipping time and profitability |
+| **Repository** | [GitHub](https://github.com/ashley-dutt/Factory-Reallocation-Shipping-Optimization-Recommendation-System-for-Nassau-Candy-Distributor) |
 
 </details>
 
@@ -180,11 +119,11 @@ Analyzed learner demographics and course-enrollment behavior on EduPro to identi
 | | |
 |---|---|
 | **Stack** | Python, Streamlit, Plotly |
-| **Scale** | `[Add scale metrics]` |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | `[Add security notes]` |
-| **Impact** | `[Add measurable impact]` |
-| **Repository** | `[Add repo link]` |
+| **Scale** | Learner and course-enrollment dataset |
+| **Performance** | Interactive Streamlit/Plotly analysis |
+| **Security** | Not applicable to project scope |
+| **Impact** | Identified learner demographics, enrollment patterns, and course-preference insights |
+| **Repository** | [GitHub](https://github.com/ashley-dutt/edupro-learner-analytics) |
 
 </details>
 
@@ -192,16 +131,16 @@ Analyzed learner demographics and course-enrollment behavior on EduPro to identi
 <summary><b>🔐 Secure Authentication Framework</b></summary>
 <br>
 
-`[Add project description]`
+Designed an authentication framework with eight security controls including bcrypt hashing, OTP-based MFA, account lockout, session management, and brute-force detection.
 
 | | |
 |---|---|
-| **Stack** | `[Add stack]` |
-| **Scale** | `[Add scale metrics]` |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | `[Add security details]` |
-| **Impact** | `[Add measurable impact]` |
-| **Repository** | `[Add repo link]` |
+| **Stack** | Python, bcrypt, OTP |
+| **Scale** | 8 security controls |
+| **Performance** | Layered authentication workflow |
+| **Security** | bcrypt hashing, OTP-based MFA, account lockout, session management, brute-force detection |
+| **Impact** | Strengthens operating-system login security through layered authentication |
+| **Repository** | [GitHub](https://github.com/ashley-dutt/Secure-Authentication-Framework-for-Operating-Systems) |
 
 </details>
 
@@ -209,33 +148,16 @@ Analyzed learner demographics and course-enrollment behavior on EduPro to identi
 <summary><b>🐝 Artificial Bee Colony — Feature Selection</b></summary>
 <br>
 
-`[Add project description]`
+Implemented Artificial Bee Colony optimization for TF-IDF feature selection on a 2,000-review IMDB sample and combined feature selection with Logistic Regression.
 
 | | |
 |---|---|
-| **Stack** | `[Add stack]` |
-| **Scale** | `[Add scale metrics]` |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | `[Add security details]` |
-| **Impact** | `[Add measurable impact]` |
-| **Repository** | `[Add repo link]` |
-
-</details>
-
-<details>
-<summary><b>✈️ Travelocity Project</b></summary>
-<br>
-
-`[Add project description]`
-
-| | |
-|---|---|
-| **Stack** | `[Add stack]` |
-| **Scale** | `[Add scale metrics]` |
-| **Performance** | `[Add performance metrics]` |
-| **Security** | `[Add security details]` |
-| **Impact** | `[Add measurable impact]` |
-| **Repository** | `[Add repo link]` |
+| **Stack** | Python, TF-IDF, scikit-learn |
+| **Scale** | 2,000 IMDB reviews |
+| **Performance** | TF-IDF feature-selection optimization |
+| **Security** | Not applicable to project scope |
+| **Impact** | Applied optimization to feature selection for text classification |
+| **Repository** | [GitHub](https://github.com/ashley-dutt/Artificial-Bee-Colony-ABC-for-Text-Feature-Selection-in-IMDBDataset) |
 
 </details>
 
@@ -272,7 +194,6 @@ March 2026 – Present · 6 months
 | Recognition | Details |
 |---|---|
 | Top 11 Selection — LPU Real-World Project Initiative | Selected among the top 11 students university-wide for a real-world project initiative |
-| `[Add achievement]` | `[Add details]` |
 
 </div>
 
@@ -280,13 +201,13 @@ March 2026 – Present · 6 months
 
 ## 📜 Certifications
 
-**SAP**
-
-`Supply Chain Optimization with SAP`
-
 **Google / AI**
 
 `Google Skill Badge` · `Business AI` · `Gemini for Data Scientists and Analysts`
+
+**SAP**
+
+`Supply Chain Optimization with SAP`
 
 **Hackathons & Events**
 
@@ -296,16 +217,7 @@ March 2026 – Present · 6 months
 
 ## 💻 Coding Profiles
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#-add-your-leetcode-url)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#-add-your-gfg-url)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#-add-your-hackerrank-url)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#-add-your-codechef-url)
-
-*`[Add your actual usernames above so these buttons link correctly]`*
-
-</div>
+No public coding-profile links added yet.
 
 ---
 
@@ -376,7 +288,6 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashley60113@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-dutt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashley-dutt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-add-your-portfolio-url-here)
 
 </div>
 
