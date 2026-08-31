@@ -1,12 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:4B0082&height=250&section=header&text=Ashley&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+recommendation+systems;GSSoC+26+Open+Source+Contributor;Flask+%2B+MySQL+%2B+scikit-learn+%2B+Gemini+API)](https://git.io/typing-svg)
 
 ![University](https://img.shields.io/badge/University-Lovely%20Professional%20University-6A0DAD?style=for-the-badge)
 ![Degree](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-4B0082?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.45%2F10.0-8A2BE2?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_Location-Hoshiarpur,_Punjab,_India-6A0DAD?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-dutt)
@@ -224,8 +221,6 @@ No public coding-profile links added yet.
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![Ashley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashley-dutt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ashley-dutt&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA)
 
