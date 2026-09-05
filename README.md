@@ -184,17 +184,6 @@ March 2026 – Present · 6 months
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Top 11 Selection — LPU Real-World Project Initiative | Selected among the top 11 students university-wide for a real-world project initiative |
-
-</div>
-
----
 
 ## 📜 Certifications
 
