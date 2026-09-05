@@ -230,15 +230,6 @@ No public coding-profile links added yet.
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ashley-dutt&theme=algolia&no-frame=true&column=7&margin-w=15)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
